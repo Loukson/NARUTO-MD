@@ -94,7 +94,7 @@ smd(
         return await _0xd700b1.send(
           "*_provide text to update profile status!_*\n*_Example: " +
             prefix +
-            "bio blade Md_*"
+            "bio NARUTO MD_*"
         );
       }
       await _0xd700b1.bot.updateProfileStatus(_0xb45f41);
@@ -289,7 +289,7 @@ smd(
   },
   async (_0xc7dd0, _0x22efeb, { store: _0x1c364d }) => {
     try {
-      _0xc7dd0.react("🫡");
+      _0xc7dd0.react("🍥");
       let _0x5c8d61 = await _0x1c364d.chats
         .all()
         .filter((_0x3b06a8) => _0x3b06a8.id.endsWith(".net"))
@@ -330,7 +330,7 @@ smd(
   },
   async (_0x281fb2, _0x20e08d, { store: _0x7945b9, Void: _0x274b4e }) => {
     try {
-      _0x281fb2.react("🫡");
+      _0x281fb2.react("🍥");
       let _0x2c5ea1 = await _0x7945b9.chats
         .all()
         .filter((_0x82e0b2) => _0x82e0b2.id.endsWith("@g.us"))
@@ -393,7 +393,7 @@ cmd(
         return _0xcffaeb.reply(
           "Please Give Me User Name, \n *Example : " +
             prefix +
-            "vcard Asta Tech Info* "
+            "vcard NARUTO MD Tech Info* "
         );
       }
       var _0x423556 = _0x4158fc.split(" ");
@@ -564,7 +564,7 @@ cmd(
     desc: "download viewOnce Message.",
     category: "whatsapp",
     use: "<query>",
-    react: "🫦",
+    react: "🌩️",
     filename: __filename,
   },
   async (_0x5e331d, _0x237d8a) => {
@@ -588,7 +588,7 @@ cmd(
       let _0x86453 = {
         key: _0x17ffa2.key,
         message: {
-          conversation: "```[VIEWONCE FOUND DOWNLOAD 100%]```",
+          conversation: "```[VIEWONCE FOUND DOWNLOAD 100%  NARUTO MD]```",
         },
       };
       let _0x22f0a2 = await _0x5e331d.bot.downloadAndSaveMediaMessage(
