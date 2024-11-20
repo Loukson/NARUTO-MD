@@ -1,28 +1,26 @@
  Fork the repo
     <br>
-<a href="https://github.com/Bladeh3x/BLADE-MD-V2/fork"><img title="BLADE-1.0" src="https://img.shields.io/badge/FORK BLADE-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Loukson/NARUTO-MD/fork"><img title="NARUTO-1.0" src="https://img.shields.io/badge/FORK NARUTO-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img alt=Support height="250" src="https://telegra.ph/file/d977cc117a6d4a1f35359.jpg"> 
+    <img alt=Support height="250" src="https://iili.io/25Lzxbs.jpg"> 
     </p>
-   ![02915c7b89c6ef83d74535972dd30665](https://github.com/user-attachments/assets/4639d259-f0c5-4e0c-bdd5-5e0442d04452)
-   
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD,-V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2024/08/13;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+NARUTO-MD,-V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2024/08/13;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
-  <a href="https://github.com/Bladeh3x/BLADE-MD-V2/stargazers">
-    <img src="https://img.shields.io/github/stars/Bladeh3x/BLADE-MD-V2?style=social">
+  <a href="https://github.com/Loukson/NARUTO-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/NARUTO-MD?style=social">
 
  <p align="center">
-  <a href="https://github.com/Bladeh3x/BLADE-MD-V2/fork">
+  <a href="https://github.com/Loukson/NARUTO-MD/fork">
     <img src="https://img.shields.io/github/forks/Bladeh3x/BLADE-MD-V2?label=Fork&style=social">
   
   # ```Tap Here For Help```  
   
   <p align="left">
-  <a href="https://wa.me/2348059540212?text=Hello%20alex~tv%20...%20I%20need%20some%20help%20in%20blade%20md-,vè">
+  <a href="https://wa.me/22502331988?text=Salut+༒⊟༺𝙻𝙾𝚄𝙺𝚂𝙾𝙽 𝚄𝚉𝚄𝙼𝙰𝙺𝙸༻⊟༒+TECH">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
   Tap here for contact me on WhatsApp Messenger 
   </p>
@@ -45,7 +43,7 @@
  <img src="https://img.shields.io/badge/Create%20Account%20Now-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 **2. deploy on heroku**
-  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bladeh3x/BLADE-MD-V2"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/bladeh3x/NARUTO-MD"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>  
 
 
@@ -65,7 +63,7 @@
 
 ### DEPLOY ON REPLIT
 - <p align="center" >
-    <a href="https://repl.it/github/Bladeh3x/BLADE-MD-v2">
+    <a href="https://repl.it/github/NARUTO-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="220" height="38.45"/></a></p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -85,6 +83,7 @@
 
 ***
 ### CREDITS TO:
+- [***Bladeh3x***](https://github.com/Bladeh3x) for all the bot belongs to it
 - [***itxxwasi***](https://github.com/Itxxwasi) For qr/pair code Ideas.
 - [***David cyril***](https://github.com/DeeCeeXxx) For menu layout & several cmds from his bot. 
 - [***Suhail Ser***](https://github.com/SuhailTechInfo) For bot database.
@@ -92,4 +91,4 @@
 - <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ***
 ## DONT FORGET TO STAR AND FORK REPO 
-©BLADE-MD-V2 2024
+©NARUTO 2024
