@@ -7,7 +7,7 @@
     <img alt=Support height="250" src="https://iili.io/25Lzxbs.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+NARUTO-MD,-V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2024/08/13;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=#eeff6a&center=true&width=910&height=100&lines=THIS IS+NARUTO-MD,-V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2024/08/13;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
   <a href="https://github.com/Loukson/NARUTO-MD/stargazers">
@@ -15,7 +15,7 @@
 
  <p align="center">
   <a href="https://github.com/Loukson/NARUTO-MD/fork">
-    <img src="https://img.shields.io/github/forks/Bladeh3x/BLADE-MD-V2?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/NARUTO-MD?label=Fork&style=social">
   
   # ```Tap Here For Help```  
   
