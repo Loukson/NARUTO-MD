@@ -6,6 +6,8 @@
   <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
     <img alt=Support height="250" src="https://telegra.ph/file/d977cc117a6d4a1f35359.jpg"> 
     </p>
+   ![02915c7b89c6ef83d74535972dd30665](https://github.com/user-attachments/assets/4639d259-f0c5-4e0c-bdd5-5e0442d04452)
+   
       <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD,-V2;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2024/08/13;." alt="Typing SVG" /></a>
   </p>
